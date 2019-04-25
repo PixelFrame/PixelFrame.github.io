@@ -1,14 +1,14 @@
 /* Please visit the URL below for more information: */
 /*   https://shd101wyy.github.io/markdown-preview-enhanced/#/customize-css */
 .markdown-preview.markdown-preview {
-  font-family: 'Source Sans Pro', 'Source Han Sans SC', Helvetica, 'Microsoft Yahei UI', 'å¾®è½¯é›…é»‘';
+  font-family: "Source Sans Pro", "Source Han Sans SC", "Source Han Sans CN", "Noto Sans CJK SC", "PingFang SC", Helvetica, "Microsoft Yahei UI", "微软雅黑", sans-serif;
   font-weight: normal;
   font-size: 14px;
   background-color: white;
   color: #333333;
 }
 .markdown-preview.markdown-preview a {
-  color: #4183C4;
+  color: #4183c4;
 }
 .markdown-preview.markdown-preview a.absent {
   color: #cc0000;
@@ -27,25 +27,25 @@
 }
 .markdown-preview.markdown-preview h1 {
   font-size: 27px;
-  border-bottom: 3px solid #DDE4E9;
+  border-bottom: 3px solid #dde4e9;
   color: #363636;
 }
 .markdown-preview.markdown-preview h2 {
   font-size: 24px;
-  border-left: 3px solid #DDE4E9;
-  border-bottom: 1px solid #DDE4E9;
+  border-left: 3px solid #dde4e9;
+  border-bottom: 1px solid #dde4e9;
   padding-left: 3px;
   color: #363636;
 }
 .markdown-preview.markdown-preview h3 {
   font-size: 20px;
-  border-left: 3px solid #DDE4E9;
+  border-left: 3px solid #dde4e9;
   padding-left: 7px;
   color: #363636;
 }
 .markdown-preview.markdown-preview h4 {
   padding-left: 9px;
-  border-bottom: 1px solid #DDE4E9;
+  border-bottom: 1px solid #dde4e9;
   font-size: 18px;
   color: #363636;
 }
@@ -98,10 +98,10 @@
   padding: 0 15px;
 }
 .markdown-preview.markdown-preview blockquote {
-  border-left: 4px solid #ECF0F3;
+  border-left: 4px solid #ecf0f3;
   /*padding: 0 15px;*/
   padding: 5px;
-  background-color: #F7F9FA;
+  background-color: #f7f9fa;
   color: #363636;
   font-style: italic;
 }
@@ -235,7 +235,7 @@
   overflow: auto;
   padding: 6px 10px;
   border-radius: 0px;
-  font-family: 'Consolas';
+  font-family: "Sarasa Mono SC", "WenQuanYi Micro Hei Mono", "Consolas", monospace;
 }
 .markdown-preview.markdown-preview pre code,
 .markdown-preview.markdown-preview pre tt {
@@ -250,7 +250,7 @@
 .markdown-preview.markdown-preview code {
   white-space: pre-wrap;
   word-break: break-all;
-  font-family: 'Consolas';
+  font-family: "Sarasa Mono SC", "WenQuanYi Micro Hei Mono", "Consolas", monospace;
 }
 .markdown-preview.markdown-preview * {
   -webkit-print-color-adjust: exact;

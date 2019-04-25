@@ -1,19 +1,10 @@
-# PixelFrame.github.io
+# Pixel Frame GitHub IO
 
-> GOD'S IN HIS HEAVEN, ALL'S RIGHT WITH THE WORLD.
+> Kernel in the Shell 壳中之核
 
-A foolish C# copier here. :-P
+```shell
+sudo rm -rf /
+```
 
-- [ ] College
-- [ ] Job
-- [ ] Marriage
-
-|Lang|Status|
-|----|------|
-|.NET/C#|⭕|
-|Java|❌|
-|C++|💔|
-|.NET/F#|❓|
-
-LAST UPDATED WITH 
-nano@termux@Android_8.0@Sony_XperiaXZs 
+LAST UPDATED WITH
+vscode@ArchLinuxVM
