@@ -1,0 +1,21 @@
+{
+  "background": "#0C0C0C",
+  "black": "#0C0C0C",
+  "blue": "#285EFF",
+  "brightBlack": "#767676",
+  "brightBlue": "#3B78FF",
+  "brightCyan": "#86C0ED",
+  "brightGreen": "#74EEA1",
+  "brightPurple": "#B4009E",
+  "brightRed": "#E74856",
+  "brightWhite": "#F2F2F2",
+  "brightYellow": "#F5E365",
+  "cyan": "#3A96DD",
+  "foreground": "#F2F2F2",
+  "green": "#20DC65",
+  "name": "CampbellE",
+  "purple": "#881798",
+  "red": "#FF162B",
+  "white": "#CCCCCC",
+  "yellow": "#E9D100"
+}
