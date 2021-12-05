@@ -2,16 +2,6 @@
 
 > Kernel in the Shell 壳中之核
 
-Pro: Technical Supporter
+人生苦短，我写PS（
 
-Planning:
-
-- PowerShell Script: Markdown to HTML convertor
-- WinForm App: ToolSet
-
----
-
-Storage:
-
-- Markdown Preview Enhanced Style File [MPE.style.less]
-- Windows Terminal Style File [WinTerm.CampbellE.scheme.json]
+有机会或许还能复健一下C#吧...
